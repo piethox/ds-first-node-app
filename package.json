@@ -1,0 +1,15 @@
+{
+  "name": "ds-first-node-app",
+  "version": "1.0.0",
+  "description": "David First node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "piethox"
+  },
+  "author": "",
+  "license": "ISC"
+}
